@@ -1,0 +1,1 @@
+{"status": "error", "code": "parameterInvalid", "message": "The country param is not currently supported on the /everything endpoint."}
